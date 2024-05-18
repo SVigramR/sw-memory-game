@@ -1,12 +1,18 @@
 .cards {
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
+    justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 .card {
     cursor: pointer;
-    width: fit-content;
+    width: 300px;
     margin: 10px;
     font-size: 1.5rem;
+    background-color: white;
+    color: black;
+    height: 300px;
+    
 }

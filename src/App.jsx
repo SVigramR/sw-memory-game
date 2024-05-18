@@ -10,8 +10,8 @@ function App() {
 
   return (
     <>
-    <HeaderSection currentScore={currentScore} bestScore={bestScore} />
-    <Cards currentScore={currentScore} bestScore={bestScore} setCurrentScore={setCurrentScore} setBestScore={setBestScore} />
+      <HeaderSection currentScore={currentScore} bestScore={bestScore} />
+      <Cards currentScore={currentScore} bestScore={bestScore} setCurrentScore={setCurrentScore} setBestScore={setBestScore} />
     </>
   )
 }
