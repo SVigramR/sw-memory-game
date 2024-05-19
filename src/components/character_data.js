@@ -6,7 +6,7 @@ const characterData = [
     { image: '/static/images/luke_skywalker.png', name: 'Luke Skywalker', selected: false },
     { image: '/static/images/etain_tur_mukan.png', name: 'Etain Tur-Mukan', selected: false },
     { image: '/static/images/kai_justiss.png', name: 'Kai Justiss', selected: false },
-    { image: 'public/static/images/Rahm_Kota.png', name: 'Rahm Kota', selected: false },
+    { image: '/static/images/Rahm_Kota.png', name: 'Rahm Kota', selected: false },
     { image: '/static/images/quinlan_vos.png', name: 'Quinlan Vos', selected: false },
     { image: '/static/images/dass_jennir.png', name: 'Dass Jennir', selected: false },
     { image: '/static/images/shaak_ti.png', name: 'Shaak Ti', selected: false },
