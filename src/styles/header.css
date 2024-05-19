@@ -1,0 +1,14 @@
+.headerSection {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerSection h1 {
+    font-size: 3rem;
+}
+
+.scoreBoard {
+    font-size: 2rem;
+}
